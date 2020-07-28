@@ -12,7 +12,7 @@ html {
 
 .content {
     position: absolute;
-    width: 50%;
+    width: 60%;
     height: 60%;
     top: 50%;
     left: 50%;
@@ -23,7 +23,7 @@ html {
 }
 
 .content-text {
-    width: 43%;
+    width: 45%;
     position: absolute;
     left: 100px;
     top: 50%;
@@ -32,7 +32,7 @@ html {
 }
 
 .citation {
-    font-size: 2rem;
+    font-size: 3.2rem;
     font-weight: lighter;
     text-justify: distribute;
 }
@@ -42,7 +42,7 @@ html {
 }
 
 .author-name {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     font-weight: bold;
     margin-top: 20px;
 }
@@ -69,18 +69,18 @@ html {
 
 .img-bg {
     position: absolute;
-    right: 35px;
-    top: 40px;
-    width: 52%;
+    right: 55px;
+    top: 10px;
+    width: 48%;
 }
 
 .bloc-image {
-    width: 40%;
+    width: 38%;
     z-index: 50;
     display: flex;
     position: relative;
     /* overflow: hidden; */
-    margin-left: 50%;
+    margin-left: 52%;
 }
 
 .image {
