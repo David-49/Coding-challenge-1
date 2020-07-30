@@ -28,8 +28,6 @@ var tailleTab = sourceImage.length;
 console.log("Taille du tabeau : " +tailleTab);
 var count = 1;
 
-
-
 nextBtn.addEventListener("click", () => {
 
     if (tailleTab <= count) {
