@@ -65,7 +65,6 @@ prevBtn.addEventListener("click", () => {
     }
 });
 
-
 //gestion des évènements aux claviers (flèches droites et gauches)
 document.addEventListener("keydown", (e) => {
     //right arrow
